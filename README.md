@@ -1,6 +1,5 @@
-Hello DoorDash Team
-
-Here is the project I've created with the specs provided for develop this App.
+Hello
+Here is a snippet of a chat app.
 
 For this project I've used React as a framework and have built up using https://github.com/facebookincubator/create-react-app tool.
 
